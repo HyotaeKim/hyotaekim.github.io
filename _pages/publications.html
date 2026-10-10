@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Publications"
@@ -5,32 +6,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Statistical Methodology
 
-{% include base_path %}
+1. **Kim, H.**, Siddiqui, N. Y., Karstens, L., and Ma, L. (2026). "[A negative binomial latent factor model for paired microbiome sequencing data](https://doi.org/10.1186/s12859-025-06362-3)." *BMC Bioinformatics*, 27(1), 45.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+2. **Kim, H.** and Kottas, A. (2022). "[Erlang mixture modeling for Poisson process intensities](https://doi.org/10.1007/s11222-021-10064-0)." *Statistics and Computing*, 32, 3.
 
+3. Xiao, S., Kottas, A., Sansó, B., and **Kim, H.** (2021). "Nonparametric Bayesian modeling and estimation for renewal processes." *Technometrics*, 63(1), 100–115.
 
+4. **Kim, H.**, Jo, S., and Choi, T. (2015). "Performance comparison of random number generators based on Adaptive Rejection Sampling." *Korean Data and Information Science Society*, 26(3), 593–610.
 
+## Manuscripts
+
+1. **Kim, H.** and Halabi, S. (2026). "A Two-Stage Bayesian Framework for Combining Clinical Trial and Real-World Data: Model-Based Clustering and Hierarchical Modeling." (Under review).
+
+2. **Kim, H.** and Kottas, A. (2026). "Bayesian Nonparametric Marked Hawkes Processes for Earthquake Modeling." (Under revision). [Preprint](https://arxiv.org/abs/2511.22538).
+
+3. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision).
+
+4. **Kim, H.** and Ma, L. (2026). "An Exponential Scale Mixture Model for Metatranscriptomics Data with Application to Inflammatory Bowel Disease." (Under revision). [Preprint](https://pmc.ncbi.nlm.nih.gov/articles/PMC13192739/).
+
+## Collaborative Research
+
+1. Bitting, R., Tseng, C., Giagtzis, A., Wyatt, A., McNair, C., **Kim, H.**, Halabi, S., and Giri, V. (2026). "Patterns of Poly(ADP-ribose) Polymerase Inhibitor Use and Overall Survival in United States Veterans with Prostate Cancer." *Clinical Genitourinary Cancer*, 24(7), 102640.
+
+2. Choi, T., Halabi, S., **Kim, H.**, and Wu, Y. (2026). "Residual-Based Sieve Maximum Full Likelihood Estimation for the Proportional Hazards Model." *Communications in Statistics - Theory and Methods*, 55(14), 4698–4715.
+
+3. Halabi, S., Luo, B., Yu, C., Rydzewska, L. H. M., Roy, A., **Kim, H.**, Godolphin, P. J., Murphy, L., Carducci, M. A., Gravis, G., Sfumato, P., Boher, J. M., James, N. D., Tierney, J. F., Page, D., Sweeney, C., and Guo, S. (2026). "Stratifying Risk and Treatment Benefit: A Model Predicting Overall Survival in Men with Metastatic De Novo Hormone-sensitive Prostate Cancer in Trials Investigating Docetaxel (the STOPCAP Collaboration)." *European Urology Focus*, 12(3), 414–425.
+
+4. Gupta, S., Guo, S., Halabi, S., Yu, C., **Kim, H.**, McKenzie, J., George, D. J., Nanus, D. M., Szmulewicz, R. Z., Danila, D. C., Luo, J., Antonarakis, E. S., and Armstrong, A. J. (2026). "Cytoplasmic versus Nuclear Localization of Androgen Receptor Splice Variant 7 as a Predictor of Benefit from Androgen Receptor Pathway Inhibitors in Metastatic Castration-Resistant Prostate Cancer (PROPHECY Trial)." *Prostate Cancer and Prostatic Diseases*, 1–9.
