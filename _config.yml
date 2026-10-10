@@ -22,7 +22,7 @@ repository : "HyotaeKim/hyotaekim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar : "profile.png"
+  avatar : "profile.jpg"
   name : "Hyotae Kim"
   bio : "Senior Research Associate | Biostatistics & Bioinformatics"
   location : "Durham, NC"
