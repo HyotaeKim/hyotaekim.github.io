@@ -19,11 +19,11 @@ author_profile: true
 
 1. **Kim, H.** and Halabi, S. (2026). "A Two-Stage Bayesian Framework for Combining Clinical Trial and Real-World Data: Model-Based Clustering and Hierarchical Modeling." (Under review).
 
-2. **Kim, H.** and Kottas, A. (2026). "Bayesian Nonparametric Marked Hawkes Processes for Earthquake Modeling." (Under revision). [Preprint](https://arxiv.org/abs/2511.22538).
+2. **Kim, H.** and Ma, L. (2026). "An Exponential Scale Mixture Model for Metatranscriptomics Data with Application to Inflammatory Bowel Disease." (Under revision). [Preprint](https://pmc.ncbi.nlm.nih.gov/articles/PMC13192739/).
 
-3. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision). [Earlier technical report abstract](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-20-08).
+3. **Kim, H.** and Kottas, A. (2026). "Bayesian Nonparametric Marked Hawkes Processes for Earthquake Modeling." (Under revision). [Preprint](https://arxiv.org/abs/2511.22538).
 
-4. **Kim, H.** and Ma, L. (2026). "An Exponential Scale Mixture Model for Metatranscriptomics Data with Application to Inflammatory Bowel Disease." (Under revision for resubmission). [Preprint](https://pmc.ncbi.nlm.nih.gov/articles/PMC13192739/).
+4. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision). [Earlier technical report abstract](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-20-08).
 
 ## Collaborative Research
 
