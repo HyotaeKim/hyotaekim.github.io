@@ -14,7 +14,7 @@ I develop Bayesian and nonparametric methods that adapt to the structure of scie
 
 ## Selected Papers
 
-1. **Kim, H.** and Halabi, S. (2026). "A Two-Stage Bayesian Framework for Combining Clinical Trial and Real-World Data: Model-Based Clustering and Hierarchical Modeling." (Under review).
+1. **Kim, H.** and Halabi, S. (2026). "A Two-Stage Bayesian Framework for Combining Clinical Trial and Real-World Data: Model-Based Clustering and Hierarchical Modeling." (Under review). [[PDF]](/files/BCHM.pdf).
 
 2. **Kim, H.** and Ma, L. (2026). "An Exponential Scale Mixture Model for Metatranscriptomics Data with Application to Inflammatory Bowel Disease." (Under revision). [[Preprint]](https://pmc.ncbi.nlm.nih.gov/articles/PMC13192739/).
    
