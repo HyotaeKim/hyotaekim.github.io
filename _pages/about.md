@@ -22,6 +22,6 @@ I develop Bayesian and nonparametric methods that adapt to the structure of scie
 
 4. **Kim, H.** and Kottas, A. (2026). "Bayesian Nonparametric Marked Hawkes Processes for Earthquake Modeling." (Under revision). [[Preprint]](https://arxiv.org/abs/2511.22538).
 
-5. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision). [[Technical report abstract]](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-20-08). [[PDF]](/files/HPs.pdf).
+5. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision). [[PDF]](/files/HPs.pdf).
 
 6. **Kim, H.** and Kottas, A. (2022). "[Erlang mixture modeling for Poisson process intensities](https://doi.org/10.1007/s11222-021-10064-0)." *Statistics and Computing*, 32, 3.
