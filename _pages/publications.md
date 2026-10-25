@@ -23,7 +23,7 @@ author_profile: true
 
 3. **Kim, H.** and Kottas, A. (2026). "Bayesian Nonparametric Marked Hawkes Processes for Earthquake Modeling." (Under revision). [Preprint](https://arxiv.org/abs/2511.22538).
 
-4. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision). [Earlier technical report abstract](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-20-08). [Manuscript](/files/HPs.pdf).
+4. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision). [Earlier technical report abstract](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-20-08). [[PDF]](/files/HPs.pdf).
 
 ## Collaborative Research
 
