@@ -7,9 +7,9 @@ author_profile: true
 
 ## Statistical Methodology
 
-1. **Kim, H.**, Siddiqui, N. Y., Karstens, L., and Ma, L. (2026). "[A negative binomial latent factor model for paired microbiome sequencing data](https://doi.org/10.1186/s12859-025-06362-3)." *BMC Bioinformatics*, 27(1), 45. [Code](https://github.com/HyotaeKim/JNBM).
+1. **Kim, H.**, Siddiqui, N. Y., Karstens, L., and Ma, L. (2026). "[A negative binomial latent factor model for paired microbiome sequencing data](https://doi.org/10.1186/s12859-025-06362-3)." *BMC Bioinformatics*, 27(1), 45. [[Code]](https://github.com/HyotaeKim/JNBM).
 
-2. **Kim, H.** and Kottas, A. (2022). "[Erlang mixture modeling for Poisson process intensities](https://doi.org/10.1007/s11222-021-10064-0)." *Statistics and Computing*, 32, 3. [Code](https://github.com/HyotaeKim/erlmixPP).
+2. **Kim, H.** and Kottas, A. (2022). "[Erlang mixture modeling for Poisson process intensities](https://doi.org/10.1007/s11222-021-10064-0)." *Statistics and Computing*, 32, 3. [[Code]](https://github.com/HyotaeKim/erlmixPP).
 
 3. Xiao, S., Kottas, A., Sansó, B., and **Kim, H.** (2021). "[Nonparametric Bayesian modeling and estimation for renewal processes](https://doi.org/10.1080/00401706.2019.1693428)." *Technometrics*, 63(1), 100–115.
 
@@ -19,11 +19,11 @@ author_profile: true
 
 1. **Kim, H.** and Halabi, S. (2026). "A Two-Stage Bayesian Framework for Combining Clinical Trial and Real-World Data: Model-Based Clustering and Hierarchical Modeling." (Under review).
 
-2. **Kim, H.** and Ma, L. (2026). "An Exponential Scale Mixture Model for Metatranscriptomics Data with Application to Inflammatory Bowel Disease." (Under revision). [Preprint](https://pmc.ncbi.nlm.nih.gov/articles/PMC13192739/).
+2. **Kim, H.** and Ma, L. (2026). "An Exponential Scale Mixture Model for Metatranscriptomics Data with Application to Inflammatory Bowel Disease." (Under revision). [[Preprint]](https://pmc.ncbi.nlm.nih.gov/articles/PMC13192739/).
 
-3. **Kim, H.** and Kottas, A. (2026). "Bayesian Nonparametric Marked Hawkes Processes for Earthquake Modeling." (Under revision). [Preprint](https://arxiv.org/abs/2511.22538).
+3. **Kim, H.** and Kottas, A. (2026). "Bayesian Nonparametric Marked Hawkes Processes for Earthquake Modeling." (Under revision). [[Preprint]](https://arxiv.org/abs/2511.22538).
 
-4. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision). [Earlier technical report abstract](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-20-08). [[PDF]](/files/HPs.pdf).
+4. **Kim, H.** and Kottas, A. (2026). "Nonparametric Bayesian Modeling and Inference for Hawkes Processes." (Under revision). [[Technical report abstract]](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-20-08). [[PDF]](/files/HPs.pdf).
 
 ## Collaborative Research
 
