@@ -19,7 +19,7 @@ author_profile: true
 
 1. **Kim, H.** and Halabi, S. (2026). "A Two-Stage Bayesian Framework for Combining Clinical Trial and Real-World Data: Model-Based Clustering and Hierarchical Modeling." (Under review). [[PDF]](/files/BCHM.pdf).
 
-2. **Kim, H.** and Ma, L. (2026). "An Exponential Scale Mixture Model for Metatranscriptomics Data with Application to Inflammatory Bowel Disease." (Under revision). [[PDF]](/files/ESM.pdf).
+2. **Kim, H.** and Ma, L. (2026). "An Exponential Scale Mixture Model for Metatranscriptomics Data with Application to Inflammatory Bowel Disease." (Under review). [[PDF]](/files/ESM.pdf).
 
 3. **Kim, H.** and Kottas, A. (2026). "Bayesian Nonparametric Marked Hawkes Processes for Earthquake Modeling." (Under revision). [[Preprint]](https://arxiv.org/abs/2511.22538).
 
